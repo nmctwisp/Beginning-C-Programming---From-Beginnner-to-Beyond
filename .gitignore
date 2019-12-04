@@ -14,3 +14,4 @@
 *.enc
 */html/*
 */latex/*
+*.pdf
